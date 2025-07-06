@@ -1,0 +1,53 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Beverages / Tea Bags Leaves / Herb Fruit Tea
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 飲品 即沖飲品 / 茶包 茶葉 / 花茶 果茶
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+iVENOR
+
+productBrand_2_cn:
+iVENOR
+
+productName_1_en:
+iVENOR - Taiwan natural herbal tea (Lemon Tea Flavor) 3.4g*10pcs▼D2(02067)(parallel import)
+
+productName_2_cn:
+iVENOR - 【十時塑】台灣天然孅檸茶(凍檸茶味)3.4g*10包 ▼D2(02067)(平行進口)
+
+shortDesc_1_en:
+-Natural herbal tea
+
+
+-Lemon Tea Flavor
+
+
+-Tea bag design, convenient to carry
+
+
+-Add 200~300cc hot or cold water, 1-2 packs per day is recommended
+
+
+-3.4g×10pcs
+
+shortDesc_2_cn:
+-天然花草茶
+
+
+-凍檸茶口味
+
+
+-茶包式設計，攜帶超方便
+
+
+-冷熱沖泡皆可，每日建議1-2包
+
+
+-3.4克×10包

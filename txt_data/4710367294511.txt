@@ -1,0 +1,33 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Skincare / Acne Care
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 護膚用品 / 暗瘡護理
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+Nexcare™
+
+productBrand_2_cn:
+Nexcare™
+
+productName_1_en:
+Nexcare™ - 3M NEXCARE Ultra-thin Acne Invisible Patch (1.2cm* 6+0.8 cm*42 pieces) Parallel Import(parallel import)
+
+productName_2_cn:
+Nexcare™ - 3M NEXCARE 超薄型荳痘隱形貼 暗瘡貼 (1.2cm* 6+0.8 cm*42顆) 平行進口(平行進口)
+
+shortDesc_1_en:
+Advanced hydrophilic dressing quickly absorbs secretions and accelerates acne recovery.
+An extra layer of protection reduces hand contact with acne and prevents bacterial infection.
+Waterproof, breathable, beautiful and comfortable.
+
+shortDesc_2_cn:
+先進親水性敷料，快速吸收分泌物，加速痘痘復原。
+多一層保護，減少手部接觸痘痘，防止細菌感染。
+防水、透氣、美觀、舒適。

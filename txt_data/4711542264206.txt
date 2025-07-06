@@ -1,0 +1,39 @@
+categoryPath_1_en:
+Skincare & Makeup / Skincare & Makeup / Acne, Blackhead & Wart Remover / Acne Cream
+
+categoryPath_2_cn:
+護膚化妝 / 護膚化妝 / 暗瘡 黑頭 除疣 / 暗瘡膏
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+NARUKO
+
+productBrand_2_cn:
+牛爾
+
+productName_1_en:
+NARUKO - Tea Tree Purifying Essential Oil 10ml [4206-茶樹神奇痘痘油](parallel import)
+
+productName_2_cn:
+牛爾 - 牛爾 茶樹神奇痘痘油 10ml [4206](平行進口)
+
+shortDesc_1_en:
+NARUKO Tea Tree Purifying Essential Oil 10ml
+
+shortDesc_2_cn:
+抗菌、禦護，只要青春！
+
+濃度高達15％茶樹精油
+深層清潔容易長出粉刺的皮膚
+2％水楊酸
+優異的角質更新能力，減少滿臉「痘花」的尷尬，快速恢復無瑕透亮
+舒緩禦護：Phytoferulin +海棠果籽油
+針對痘痘後期常見的不適，修護肌膚
+適用膚質 : 所有肌膚，特別推薦容易出油，毛孔粗大，有粉刺，痘痘因擾的肌膚使用
+
+去痘印/粉刺/痘痘肌/去角質/痘痘肌

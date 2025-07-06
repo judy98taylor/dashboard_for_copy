@@ -1,0 +1,37 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Medicine / Wound Care
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 醫藥產品 / 疤痕護理
+
+origin_1_en:
+Poland
+
+origin_2_cn:
+波蘭
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - 3M 3564E Medipore + pad 10pcs(平行進口)(parallel import)
+
+productName_2_cn:
+3M - 3M 3564E Medipore + pad 柔軟布質傷口敷料6x10cm (散裝10片 無盒)(平行進口)
+
+shortDesc_1_en:
+3M 3564E Medipore + pad 10pcs
+
+
+shortDesc_2_cn:
+6x10cm
+(散裝10片)
+質料柔軟敷料,隨著身體部位的活動而伸展、彎曲， 貼敷時倍感舒適
+多孔及透氣度高、低致敏
+黏貼力強，可貼敷時間高達48小時
+適合割傷、擦傷及燒傷、細小切口及切除部位的傷口使用
+
+

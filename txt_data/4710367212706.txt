@@ -1,0 +1,43 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Personal Care / Dental Care / Toothbrush / Toothbrush
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 個人護理用品 / 口腔護理 / 牙刷 / 手動牙刷
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - interdental Brush(L-Shaped SSS-Pink)(12pcs/pack)(parallel import)
+
+productName_2_cn:
+3M - 護齒牙縫刷( L型SSS碼粉紅色)(12pcs/pack)(平行進口)
+
+shortDesc_1_en:
+3M interdental Brush(L-Shaped SSS-Pink)(12pcs/pack)
+
+Easy-to-handle and non-slip grip
+Tough bristles and wire
+Can be easily inserted to gap between teeth
+Effective L-shaped design
+12 pieces per bag, 0.7mm
+Effectively remove residue between teeth
+
+shortDesc_2_cn:
+3M 護齒牙縫刷( L型SSS碼粉紅色)(12pcs/pack)
+
+刷頭經特殊結構設計刷頭 ，不易脫落、斷裂
+刷毛優良，質地強韌，鋼絲不易折斷
+極細刷毛 深入牙縫
+L型設計，適合後牙使用
+每包12支，0.7mm
+牙縫刷可清除牙齒間縫隙的食物殘渣，保持牙齒健康

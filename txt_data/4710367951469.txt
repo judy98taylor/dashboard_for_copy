@@ -1,0 +1,47 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Personal Care / Dental Care / Kids Dental Care
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 個人護理用品 / 口腔護理 / 兒童口腔護理
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+3M™
+
+productBrand_2_cn:
+3M™
+
+productName_1_en:
+3M™ - Kids' Flosser(38pcs/pack) (ref:36277)(parallel import)
+
+productName_2_cn:
+3M™ - 超細滑兒童安全牙線棒(38pcs/pack) (ref:36277)(平行進口)
+
+shortDesc_1_en:
+- For 3y+ kids.
+
+- Four colors, Eight animal shapes.
+
+- Safety arch design
+
+- Effectively removes the residual residue
+
+- Made in Taiwan.
+
+shortDesc_2_cn:
+- 3歲以上孩童適用
+
+- 超細滑纖維束，不易起毛不易斷裂
+
+- 四種顏色、八種動物造型
+
+- 安全牙弓設計
+
+- 有效清除牙縫殘渣
+
+- 台灣生產製造

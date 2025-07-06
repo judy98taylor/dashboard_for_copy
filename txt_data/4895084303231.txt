@@ -1,0 +1,35 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Health / Immunity
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 保健產品 / 免疫系統
+
+origin_1_en:
+New Zealand
+
+origin_2_cn:
+紐西蘭
+
+productBrand_1_en:
+HERBS
+
+productBrand_2_cn:
+草姬
+
+productName_1_en:
+HERBS - MedHerbs Immunity & Skin Medical Probiotics 30 Capsules [免疫](parallel import)
+
+productName_2_cn:
+草姬 - MedHerbs醫學級強免疫抗敏肌腸道益生菌 30粒 [免疫](平行進口)
+
+shortDesc_1_en:
+Asian strong immunity & anti-allergy formula: users agree that it can enhance allergy resistance in 6 days^
+Balances intestinal microecology, protects intestinal immune cells, and activates immunity system 2.6 times
+Improves sensitive skin by 78.9%#, relieves redness, swelling, itching & allergic reactions
+Specially formulated with addition of Immunoglobulin and Tiger Milk Mushroom for comprehensive anti-allergy and strong Immunity, reducing cold symptoms
+
+shortDesc_2_cn:
+亞洲科研免疫抗敏配方，用家認同6天提升抗敏力^
+平衡腸道微生態，守護腸道免疫細胞，2.6倍激活免疫力△
+改善濕敏肌膚78.9%#，舒緩紅腫痕癢
+特別添加免疫球蛋白及虎乳靈芝，全效抗敏強免疫、減少感冒症狀

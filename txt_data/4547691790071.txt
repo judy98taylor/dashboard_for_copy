@@ -1,0 +1,31 @@
+categoryPath_1_en:
+Housewares / Housewares / Cleaning / Dehumidifying Products / Dehumidifiers
+
+categoryPath_2_cn:
+家品傢俬 / 家品傢俬 / 家居清潔 / 抽濕用品 / 吸濕盒 掛袋
+
+origin_1_en:
+Japan
+
+origin_2_cn:
+日本
+
+productBrand_1_en:
+OKAMOTO
+
+productBrand_2_cn:
+岡本
+
+productName_1_en:
+OKAMOTO - Okamoto Dry Dehumidifier for Shoes and Shoes Cupboard 4 pcs (Parallel Import)(parallel import)
+
+productName_2_cn:
+岡本 - 吸濕大笨象 鞋子鞋櫃除濕 吸濕脫臭包 4個入 (平行進口貨品)(平行進口)
+
+shortDesc_1_en:
+Okamoto Dry Dehumidifier for Shoes and Shoes Cupboard 4 pcs (Parallel Import)
+
+shortDesc_2_cn:
+岡本 鞋子鞋櫃除濕 吸濕脫臭包 4個入 (平行進口貨品)
+
+吸濕大笨象

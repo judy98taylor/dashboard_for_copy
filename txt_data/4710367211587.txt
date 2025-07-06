@@ -1,0 +1,39 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Personal Care / Foot Care / Foot Patch & Foot Mask
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 個人護理用品 / 足部護理 / 足貼 足膜
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - Nexcare Foot Care Tapes-toe [1587-趾節護貼](parallel import)
+
+productName_2_cn:
+3M - Nexcare 趾節護貼/ 防磨腳貼/ 防刮腳貼(8片大貼+12片小貼) [1587](平行進口)
+
+shortDesc_1_en:
+◆Specially designed for toe joints
+◆Soft air cushion material, away from foot abrasion
+◆Innovative cross incision, completely adaptable
+◆Tear off and use without cutting
+◆Mild glue, no pain to remove
+(37.6 x 25mm*8 pieces, 15 x 15mm*12 pieces)
+
+shortDesc_2_cn:
+◆專為腳趾關節設計
+◆柔軟氣墊材質，遠離磨腳
+◆創新十字切口，完全服貼
+◆一撕即用不需剪裁
+◆溫和膠性，撕除不痛
+(37.6 x 25mm*8片 , 15 x 15mm*12片)

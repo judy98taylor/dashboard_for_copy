@@ -1,0 +1,37 @@
+categoryPath_1_en:
+Skincare & Makeup / Skincare & Makeup / Nail Care / Nail Strengthener
+
+categoryPath_2_cn:
+護膚化妝 / 護膚化妝 / 美甲護甲 / 護甲油 筆
+
+origin_1_en:
+United States of America
+
+origin_2_cn:
+美國
+
+productBrand_1_en:
+Taiwan Import
+
+productBrand_2_cn:
+台灣入口
+
+productName_1_en:
+Taiwan Import - VARISI Nail Solution 15ml [Parallel Import from Taiwan][0069指甲美化液](Random old/new packing)(parallel import)
+
+productName_2_cn:
+台灣入口 - 美國製 VARISI 指甲美化液 15ml [平行進口-台灣入口][0069] (新舊包裝隨機出貨)(平行進口)
+
+shortDesc_1_en:
+made in USA
+Repair, beautify nails, suppress gray nails
+Pure natural plant extract
+user-friendly
+Non-toxic and tasteless
+
+shortDesc_2_cn:
+美國製造
+修護、美化指甲、抑制灰甲
+純天然植物萃取
+容易使用
+無毒、無味

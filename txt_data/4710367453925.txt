@@ -1,0 +1,30 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Personal Care / Dental Care / Toothbrush
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 個人護理用品 / 口腔護理 / 牙刷
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - Interdental Brush - L-shaped SSSS-sized New Packing（4891203504428）(parallel import)
+
+productName_2_cn:
+3M - 護齒牙縫刷 - L型SSSS碼新包裝（4891203504428）(平行進口)
+
+shortDesc_1_en:
+Interdental Brush - L-shaped SSSS-sized New Packing（4891203504428）
+
+
+shortDesc_2_cn:
+護齒牙縫刷 - L型SSSS碼新包裝（4891203504428）

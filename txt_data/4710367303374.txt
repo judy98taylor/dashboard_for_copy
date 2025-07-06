@@ -1,0 +1,36 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Medicine / First Aid
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 醫藥產品 / 急救藥箱用品
+
+origin_1_en:
+United States of America
+
+origin_2_cn:
+美國
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - Nexcare™ - Waterproof Bandage D2 (20pcs) x 2 boxes(parallel import)
+
+productName_2_cn:
+3M - Nexcare™ - 防水透氣膠膜 D2 (20片) x 2 盒(平行進口)
+
+shortDesc_1_en:
+* Ultra thin PU material, Breathable
+* Prevent water, dust and bacteria
+* High adhesion, keep water out
+* Non-stick pad won’t stick to wound
+
+
+shortDesc_2_cn:
+* 超薄透氣
+* 有效阻隔水份、塵埃及細菌
+* 黏力可靠,遇水不易脫落
+* 護墊不黏傷口

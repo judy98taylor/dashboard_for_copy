@@ -1,0 +1,33 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Medicine / First Aid
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 醫藥產品 / 急救藥箱用品
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+Nexcare™
+
+productBrand_2_cn:
+Nexcare™
+
+productName_1_en:
+Nexcare™ - 3M Nexcare Skin Color Ventilation Tape Medical Grade Acrylic Adhesive Dust-Proof Adhesive Pad (2.5*9(parallel import)
+
+productName_2_cn:
+Nexcare™ - 3M Nexcare 膚色通氣膠帶 醫療級壓克力膠 防塵膠台(2.5*9.14CM) 平行進口(平行進口)
+
+shortDesc_1_en:
+3M skin color tape, breathable material design, allows your skin to breathe freely, comfortable and not stuffy, and better use experience.
+Skin color design, the tape color blends naturally with the skin color, invisible and beautiful, does not affect the appearance, and is more confident when using.
+Moderate viscosity, the tape adheres firmly and is not easy to fall off. At the same time, it does not hurt the skin when torn off, giving you gentle care
+
+shortDesc_2_cn:
+3M膚色膠帶，透氣材質設計，讓您的肌膚可以自由呼吸，舒適不悶熱，使用體驗更佳。
+膚色設計，膠帶顏色與膚色自然融合，隱形美觀，不影響外觀，使用時更加自信。
+黏性適中，膠帶黏貼牢固，不易脫落，同時撕除時不傷皮膚，給您溫和的呵護
