@@ -1,0 +1,57 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Breakfast & Jam / Oats & Cereals / Oatmeal congee & Oat soymilk
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 早餐 果醬 / 燕麥 穀物 / 燕麥粥 燕麥奶
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+QUAKER
+
+productBrand_2_cn:
+桂格
+
+productName_1_en:
+QUAKER - Daily Nutrition Guzhen Cereal-Whole Meal 10packs/bag [5864-穀麥全餐](parallel import)
+
+productName_2_cn:
+桂格 - 每日營養穀珍 穀麥全餐沖泡飲 10包/袋 (23g) (無添加糖)[綠啡袋5864](平行進口)
+
+shortDesc_1_en:
+Multiple grains are paired with 6 key nutrients to help supplement your daily nutritional needs
+
+Black sesame has the effect of nourishing health
+
+Mixed stone fruit: lotus seeds, cashews, pumpkin seeds, walnuts, ginkgo nuts, pine nuts
+
+Provide dietary fiber, vegetable protein, high-quality sugar and seed oil
+
+
+
+
+Color-free, preservative-free nutritious and delicious, make you healthy and active every day
+
+No added sugar flavor, no added colorings and preservatives, ice and hot brewing are delicious!
+
+shortDesc_2_cn:
+多元穀物搭配6大關鍵營養，幫助補充每日營養所需
+
+黑芝麻有滋補養生之效果
+
+綜合核果: 蓮子、腰果、南瓜子、核桃、銀杏果、松子
+
+提供膳食纖維、植物性蛋白、優質醣類與種子油脂
+
+添加攝取不足的鈣、鋅與維生素D
+
+
+
+
+◆ 無色素、無防腐劑的營養美味，讓你健康活力每一天
+
+◆ 無加糖口味，堅持無添加色素與防腐劑，冰沖、熱沖都好喝!

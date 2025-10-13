@@ -1,0 +1,29 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Medicine / Surgical Masks
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 醫藥產品 / 口罩
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - 3D Medical Masks, 20 Pieces, Classic Blue (Parallel Import)(parallel import)
+
+productName_2_cn:
+3M - 3D 立體醫用口罩 20入 經典藍 (平行進口)
+
+shortDesc_1_en:
+3D Medical Masks, 20 Pieces, Classic Blue (Parallel Import)
+
+shortDesc_2_cn:
+3D 立體醫用口罩 20入 經典藍 (平行進口)

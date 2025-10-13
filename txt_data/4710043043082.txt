@@ -1,0 +1,46 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Breakfast & Jam / Oats & Cereals / Oatmeal congee & Oat soymilk
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 早餐 果醬 / 燕麥 穀物 / 燕麥粥 燕麥奶
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+QUAKER
+
+productBrand_2_cn:
+桂格
+
+productName_1_en:
+QUAKER - All-natural Chinese yam & White-Sesame Brewed Drink 10packs/bag [3082-山藥白芝麻](Random old/new packing)(parallel import)
+
+productName_2_cn:
+桂格 - 全天然五麥 山藥白芝麻沖泡飲 (29.5g) 10包/袋 [3082](新舊包裝隨機出貨)(平行進口)
+
+shortDesc_1_en:
+All Natural Five Grains (quinoa, buckwheat, oats, rye and barley) whole grains
+
+With purple yam, white sesame, brown rice, multi-nutrient
+
+15% less sugar, 100% natural whole grains
+
+lacto-vegetarian food
+
+shortDesc_2_cn:
+全天然五麥(藜麥、蕎麥、燕麥、黑麥及大麥) 完整顆粒
+
+搭配紫山藥、白芝麻、糙米多元營養
+
+減糖15%，100%天然全榖
+
+奶素可食
+
+
+
+
+[營養高纖/穀物早餐][熱/冰沖]

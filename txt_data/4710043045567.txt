@@ -1,0 +1,61 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Breakfast & Jam / Oats & Cereals / Oatmeal congee & Oat soymilk
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 早餐 果醬 / 燕麥 穀物 / 燕麥粥 燕麥奶
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+QUAKER
+
+productBrand_2_cn:
+桂格
+
+productName_1_en:
+QUAKER - Chia Seed Oatmeal Black Valley Nut Brew (31g) 10packs/bag [紫色袋5567-黑穀堅果][packaging randomly](parallel import)
+
+productName_2_cn:
+桂格 - 奇亞籽麥片 黑穀堅果沖泡飲 (31g) 10包/袋 (可冰沖)[紫色袋5567][新舊包裝隨機出貨](平行進口)
+
+shortDesc_1_en:
+The rich black valley nut flavor is on the market, and the ice is hot and the hot is free.
+
+Chia seeds are nutritious and match with multi-grain crispy taste
+
+Rich in dietary fiber to aid digestion
+
+Rich in nutrients to strengthen health
+
+
+
+
+31gX10 pack
+
+shortDesc_2_cn:
+濃郁黑穀堅果風味上市，冰沖熱沖隨心所欲
+
+奇亞籽營養加分，搭配多元穀物酥脆口感
+
+豐富膳食纖維，幫助消化
+
+富含營養，鞏固健康
+
+
+
+
+31gX10包
+
+特濃鮮奶沖泡飲 (28g) 10包/袋
+
+藜麥核桃沖泡飲 (30g) 10包/袋
+
+草莓歐蕾沖泡飲 (28g) 10包/袋
+
+黑穀堅果沖泡飲 (31g) 10包/袋
+
+[營養高纖]

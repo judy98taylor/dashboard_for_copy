@@ -1,0 +1,47 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Skincare / Mask / Whitening
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 護膚用品 / 面膜 / 亮白祛斑
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+NARUKO
+
+productBrand_2_cn:
+牛爾
+
+productName_1_en:
+NARUKO - Tea Tree Magic Whitening Black Mask 5pcs Parallel Import(parallel import)
+
+productName_2_cn:
+牛爾 - 牛爾 茶樹神奇美白黑面膜 5片/盒 平行進口(平行進口)
+
+shortDesc_1_en:
+In addition to acne, acne-prone skin must also be troubled by acne scars and acne marks.
+How can we simultaneously reduce the chance of acne formation and improve the acne marks on the face?
+
+
+
+
+
+
+
+
+
+shortDesc_2_cn:
+痘痘肌除了長痘之外，一定還有痘疤、痘印的困擾，如何同步達到減少痘痘生成機會，
+|同時改善滿臉痘花呢？試試看NARUKO專為油痘肌研發的淡化痘痕黑面膜，
+解決油水不平衡產生的痘痘危機，更針對暗沉、痘印添加傳明酸、B3等亮白成分，掃除痘痘瑕疵，養出穩定好肌。
+
+
+
+
+
+
+

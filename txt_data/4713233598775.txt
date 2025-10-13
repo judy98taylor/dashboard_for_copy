@@ -1,0 +1,29 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Skincare / Mask / Hydrating
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 護膚用品 / 面膜 / 保濕
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+Neogence
+
+productBrand_2_cn:
+霓淨思
+
+productName_1_en:
+Neogence - Aqua Burst Moisturizing Mask (5pcs)(parallel import)
+
+productName_2_cn:
+霓淨思 - Neogence 超爆水潤澤保濕面膜 (5片)(平行進口)
+
+shortDesc_1_en:
+Aqua Burst Series for delicate skin! With Neogence moisturizing formula and natural permeable membrane, the essence penetrates deeply into the bottom of the skin, leaving skin translucent with radiance.
+
+shortDesc_2_cn:
+承載17倍濃縮精華，深層滲透肌底，源源水分，打造潤澤飽滿肌。

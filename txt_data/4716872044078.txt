@@ -1,0 +1,35 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Skincare / Cleanse / Blackhead Remover
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 護膚用品 / 面部潔淨 / 清潔鼻貼
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+MY SCHEMING
+
+productBrand_2_cn:
+我的心機
+
+productName_1_en:
+MY SCHEMING - Blackhead Removal Activated Carbon Mask Set(parallel import)
+
+productName_2_cn:
+我的心機 - 黑頭終結粉刺拔膜組(平行進口)
+
+shortDesc_1_en:
+拔起頑強粉刺，毛孔淨空深呼吸。
+去除頑固粉刺緊緻毛孔
+所有膚質都適用，
+特別推薦油性肌膚、毛孔粗大肌膚使用
+
+shortDesc_2_cn:
+拔起頑強粉刺，毛孔淨空深呼吸。
+去除頑固粉刺緊緻毛孔
+所有膚質都適用，
+特別推薦油性肌膚、毛孔粗大肌膚使用
