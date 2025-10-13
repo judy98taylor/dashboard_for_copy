@@ -76,7 +76,7 @@ export default function Home() {
   return (
     <div className="flex h-screen">
       {/* aside 产品列表tabs */}
-      <div className="w-64 bg-gray-100 p-4 overflow-y-auto">
+      <div className="w-64 p-4 overflow-y-auto">
         <h2 className="text-xl font-bold mb-4">产品列表</h2>
         <div className="space-y-2">
           {productList.map((productId,index) => (

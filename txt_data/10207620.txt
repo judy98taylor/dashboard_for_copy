@@ -1,0 +1,29 @@
+categoryPath_1_en:
+Skincare & Makeup / Skincare & Makeup / Skincare / Moisturizer / Day Cream / Brightening Day Cream
+
+categoryPath_2_cn:
+護膚化妝 / 護膚化妝 / 面部護理護膚 / 面霜 / 日霜 / 亮白祛斑日霜
+
+origin_1_en:
+Japan
+
+origin_2_cn:
+日本
+
+productBrand_1_en:
+BRAIN COSMOS
+
+productBrand_2_cn:
+BRAIN COSMOS
+
+productName_1_en:
+BRAIN COSMOS - H2 Hydrogen Water Dark - sport and wrinkle care Cream (4571138553455)(Parallel Imports Product)(parallel import)
+
+productName_2_cn:
+BRAIN COSMOS - 日本水素水 還原 去斑去黑特效膏 (4571138553455)(平行進口)
+
+shortDesc_1_en:
+1 Unit Japan BC Link H2 Hydrogen Water Dark - sport and wrinkle care Cream
+
+shortDesc_2_cn:
+1枝日本BC Link水素水 還原 去斑去黑特效膏

@@ -1,0 +1,33 @@
+categoryPath_1_en:
+Home Appliances / Home Appliances / Other Small Home Appliances & Accessories / Lighting & Light Bulb & Torch / Night & Sensor Light
+
+categoryPath_2_cn:
+家居電器 / 家居電器 / 其他小型家電及配件 / 燈 燈泡 電筒 / 小夜燈 感應燈
+
+origin_1_en:
+China
+
+origin_2_cn:
+中國
+
+productBrand_1_en:
+全城熱賣
+
+productBrand_2_cn:
+全城熱賣
+
+productName_1_en:
+全城熱賣 - 【10cm】Smart Sensor Light Rechargeable Magnetic LED Light Automatic USB(parallel import)
+
+productName_2_cn:
+全城熱賣 - 【10cm】 LED智能人體感應燈 附磁貼USB充電 強力吸附 小夜燈 床頭衣櫃(平行進口)
+
+shortDesc_1_en:
+ 【10cm】Smart Sensor Light Rechargeable Magnetic LED Light Automatic USB
+The product is initially turned off and is not broken. Please read the instruction manual before operating. If it is broken, please contact maintenance.
+
+shortDesc_2_cn:
+ 【10cm】 LED智能人體感應燈 附磁貼USB充電 強力吸附 小夜燈 床頭衣櫃
+產品初始為關閉狀態不是壞了 
+請閱讀使用說明書再操作
+有壞請聯繫保養。

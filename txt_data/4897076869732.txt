@@ -1,0 +1,53 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Snacks & Desserts / Biscuits / Crackers
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 零食 甜品 / 餅乾 / 薄脆餅乾 梳打餅
+
+origin_1_en:
+Hong Kong
+
+origin_2_cn:
+香港
+
+productBrand_1_en:
+SHAN SHAU JOK
+
+productBrand_2_cn:
+山手作
+
+productName_1_en:
+SHAN SHAU JOK - SSJ Cashew Crunchy (150g) (Best Before: 30 December 2025)(parallel import)
+
+productName_2_cn:
+山手作 - 山手作腰果酥 (150克) (此日期前最佳：2025年12月30日)(平行進口)
+
+shortDesc_1_en:
+腰果酥獨有的誘人甘香，味道絕不平凡！飽滿腰果一粒疊一粒，豐富又紮實的口感令你難以忘懷！
+
+
+• 酥糖口感香脆不黏牙
+• 堅果以低溫烘焙，滴油不落，適合追求健康lifestyle嘅香港人
+• 濃郁腰果味，一口齒頰留香
+• 進口優質食材，原產地遍佈全球
+• 絕無防腐劑，粒粒獨立包裝，保持最新鮮品質
+• 每日自家工廠新鮮製造，100%香港製造
+
+
+規格：150克 /盒
+(Best Before: 30 December 2025)
+
+shortDesc_2_cn:
+腰果酥獨有的誘人甘香，味道絕不平凡！飽滿腰果一粒疊一粒，豐富又紮實的口感令你難以忘懷！
+
+
+• 酥糖口感香脆不黏牙
+• 堅果以低溫烘焙，滴油不落，適合追求健康lifestyle嘅香港人
+• 濃郁腰果味，一口齒頰留香
+• 進口優質食材，原產地遍佈全球
+• 絕無防腐劑，粒粒獨立包裝，保持最新鮮品質
+• 每日自家工廠新鮮製造，100%香港製造
+
+
+規格：150克 /盒
+(此日期前最佳：2025年12月30日)
