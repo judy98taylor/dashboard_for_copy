@@ -1,0 +1,41 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Medicine / Wound Care
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 醫藥產品 / 疤痕護理
+
+origin_1_en:
+United States of America
+
+origin_2_cn:
+美國
+
+productBrand_1_en:
+3M Tegaderm
+
+productBrand_2_cn:
+3M 美膚貼
+
+productName_1_en:
+3M - Tegaderm + Pad 18pcs (parallel import)
+
+productName_2_cn:
+3M -  不沾黏傷口棉墊3吋*3吋6入18片 (平行進口)
+
+shortDesc_1_en:
+1boxes 50pcs
+
+shortDesc_2_cn:
+1 盒 50 片 
+
+有效日期2027年
+
+防水薄膜 6cm x10cm, 棉墊2.5cm x 6cm - 
+防水－可以安心淋浴或澡而不需更換敷料 - 
+安全屏障－降低細菌侵入的機會 - 醫療級縲縈不織布棉墊，超優吸收力 - 毛細作用迅速吸收滲液，降低傷口浸潤的機會 - 
+不沾黏傷口，避免移除敷料時對傷口新生組織的傷害 - 
+適合廣泛運用 - 獨特框型設計，操作快速簡單，專業醫護人員或居家照顧者均可操作 
+ 兼具防水透氣與吸收傷口液雙重優點 - 
+二合一滅菌敷料，縮短換藥時間 - 
+黏性佳可均勻服貼更舒適 - 
+容易移除

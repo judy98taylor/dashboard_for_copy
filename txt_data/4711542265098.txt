@@ -1,0 +1,44 @@
+categoryPath_1_en:
+Skincare & Makeup / Skincare & Makeup / Skincare / Mask / Cream Mask / Pore Minimizing Cream Mask
+
+categoryPath_2_cn:
+護膚化妝 / 護膚化妝 / 面部護理護膚 / 面膜 / 霜狀面膜 / 收縮毛孔霜狀面膜
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+NARUKO
+
+productBrand_2_cn:
+牛爾
+
+productName_1_en:
+NARUKO - Tea Tree Shine Control & Blemish Clear Mask 8pcs [5098-茶樹神奇痘痘黑面膜8片](parallel import)
+
+productName_2_cn:
+牛爾 - 牛爾 茶樹神奇痘痘黑面膜 8片 [5098](平行進口)
+
+shortDesc_1_en:
+NARUKO Tea Tree Shine Control & Blemish Clear Mask 8pcs
+
+shortDesc_2_cn:
+神奇CC黑膜法，祛油配方+炭吸油污面膜，Clear淨化黑4力！
+
+カ「降油脂」：鋸棕櫚+毛孔緊緻因子
+– 控油。吸油雙效調理，改善滿臉油光，維持油水平衡 ，清潔容易長出粉刺的皮膚
+カ「解肌燥」：Phytoferulin + 金縷梅
+– 多重舒緩修護肌燥，安撫膚況穩定，維持油水平衡カ
+水楊酸+扁豆籽萃取+ PO抗菌因子+茶樹精油
+– 促進角質更新與淨化
+カ「淡黯沉」：傳明酸
+– 均勻膚色明亮，改善黯沉
+Calm 沁涼爽膚液滴
+
+
+
+
+均勻膚色/提亮膚色/去油肌/粉刺/痘痘

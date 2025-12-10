@@ -1,0 +1,56 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Personal Care / Body Care / Body Lotion
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 個人護理用品 / 身體護理 / 潤膚露
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+DR.WU
+
+productBrand_2_cn:
+DR.WU
+
+productName_1_en:
+DR.WU - Mandelic Acid Brightening Body Lotion 200ml Parallel Import(parallel import)
+
+productName_2_cn:
+DR.WU - 杏仁酸亮白煥膚身體乳 200ml 平行進口(平行進口)
+
+shortDesc_1_en:
+Designed for rough and dull skin
+
+
+Gently metabolizes keratin and reduces acne
+
+
+Contains moisturizing and soothing ingredients to effectively reduce dryness and discomfort
+
+
+No alcohol, fragrance, or pigment, suitable for sensitive skin
+
+
+
+
+
+
+
+
+
+shortDesc_2_cn:
+專為粗糙及暗沉肌設計
+溫和代謝角質，減少粉刺痘痘
+含保濕及舒緩成分，有效降低乾燥不適感
+無酒精、香精、色素，敏弱肌適用
+
+
+
+
+
+
+

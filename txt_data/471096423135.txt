@@ -1,0 +1,34 @@
+categoryPath_1_en:
+Supermarket / Supermarket / Seasoning / Bakery Food
+
+categoryPath_2_cn:
+超級巿場 / 超級市場 / 調味 醬料 / 烘焙食品
+
+origin_1_en:
+China
+
+origin_2_cn:
+中國
+
+productBrand_1_en:
+全城熱賣
+
+productBrand_2_cn:
+全城熱賣
+
+productName_1_en:
+全城熱賣 - 100% White Sesame Seeds 105g(parallel import)
+
+productName_2_cn:
+全城熱賣 - 100% 芝初 - 淺焙白芝麻粒 105g(平行進口)
+
+shortDesc_1_en:
+Manufacture Date: Shown On Package
+Shelf Life: 12 Months
+
+
+
+shortDesc_2_cn:
+生產日期: 見包裝
+
+保質期: 12個月

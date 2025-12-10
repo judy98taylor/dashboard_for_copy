@@ -1,0 +1,42 @@
+categoryPath_1_en:
+Skincare & Makeup / Skincare & Makeup / Skincare / Moisturizer / Day Cream / Anti Aging Wrinkle Day Cream
+
+categoryPath_2_cn:
+護膚化妝 / 護膚化妝 / 面部護理護膚 / 面霜 / 日霜 / 抗衰老 抗皺日霜
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+DR.WU
+
+productBrand_2_cn:
+DR.WU
+
+productName_1_en:
+DR.WU - AGEVERSAL Extreme Rejuvenate Cream 30ml Exosomes added(parallel import)
+
+productName_2_cn:
+DR WU - 瞬適膚舒緩潤澤修護霜280ml(平行進口)
+
+shortDesc_1_en:
+Fully activates collagen power, firms and sculpts for a younger appearance. 
+Introducing the 'Renewal, Repair, Revitalization' mechanism, addressing aging from the root, metabolizing old skin cells
+The highest concentration of edelweiss extract cream, has strong antioxidant properties
+Works synergistically with Type I and Type IV collagen to deeply repair the skin's structure
+Enriched with six premium plant oils Squalane, providing deep hydration
+
+
+
+
+
+shortDesc_2_cn:
+全面激活膠原力 緊實雕塑更年輕
+導入「煥新、修復、賦活」機制，從根源解決老化狀況，代謝老廢肌因，
+並提升肌因自我再生力及修護力，全面啟動肌因再生，賦活肌膚年輕狀態。
+最高濃度雪絨花精粹*精華霜，取自阿爾卑斯山脈嚴峻氣候生長雪絨花精萃，具有強效抗氧化力，
+協同膠原蛋白第一型、第四型作用力，深層修護肌底結構，點.線.面撐起臉部核心，提升肌膚彈性與厚度，實現從內而外澎潤彈嫩！
+添加以法國頂級植萃角鯊為首6大植萃油，以深度滋潤保濕，使肌膚由內而外綻放年輕光采，深層滋潤不悶膚，雕塑完美輪廓線！

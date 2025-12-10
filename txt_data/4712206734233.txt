@@ -1,0 +1,49 @@
+categoryPath_1_en:
+Skincare & Makeup / Skincare & Makeup / Skincare / Mask / Sheet Mask / Moisturizing Sheet Mask
+
+categoryPath_2_cn:
+護膚化妝 / 護膚化妝 / 面部護理護膚 / 面膜 / 片狀面膜 / 保濕片狀面膜
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+Neogence
+
+productBrand_2_cn:
+霓淨思
+
+productName_1_en:
+Neogence - Party Makeup Base Mask-Hydrate Your Skin 4pcs(parallel import)
+
+productName_2_cn:
+霓淨思 - 跑趴超貼妝極效涵水面膜4入(平行進口)
+
+shortDesc_1_en:
+Significantly Increases Skin Hydration
+
+Instant Moisturization: Leaves the skin feeling immediately smooth and hydrated, enhancing makeup application and reducing dullness.
+
+Revitalizes Skin Condition: Restores radiance and reduces skin roughness.
+
+
+
+
+
+
+
+shortDesc_2_cn:
+大幅度提升肌膚的含水量
+瞬效保濕，膚觸立即細滑水潤超貼妝，不易暗沉
+活化膚況、恢復光澤並減少皮膚粗糙
+
+
+
+
+
+
+
+

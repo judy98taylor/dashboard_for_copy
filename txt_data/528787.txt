@@ -1,0 +1,65 @@
+categoryPath_1_en:
+Pets / Pets / For Cat / Cat Health Care / Cat Supplement / Vitamin
+
+categoryPath_2_cn:
+寵物用品 / 寵物用品 / 貓貓專區 / 貓健康護理 / 貓營養健康 / 維他命 營養補充
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+Furluv
+
+productBrand_2_cn:
+樂球
+
+productName_1_en:
+Furluv - Skin & Coat Care for Cats (1g/stick pack; 30 stick packs/packet)(parallel import)
+
+productName_2_cn:
+樂球 - 佳貓護膚毛 (1g/包 30包/盒) 貓咪美毛護膚 小分子魚骨膠原(平行進口)
+
+shortDesc_1_en:
+Specialized Skin Care for Cats
+
+
+【Shedding Prevention】 Terrapin Egg Powder
+【Skin Nourishment】Fish Collagen
+【Skin Barier】Postbiotics Powder
+
+
+Directions:
+1. Consume 1-2 stick packs daily for cats
+2. Feeding amount adjustment needed accordingly to cats condition
+3. This product is suitable for cats of all ages, can be eat directly or mixed with food
+
+
+
+
+
+
+
+shortDesc_2_cn:
+【貓咪專屬的膚毛保健】
+
+
+貓咪毛色黯淡、異常舔毛、紅癢抓抓、貓粉刺多嗎？
+注意！貓咪皮膚狀況亮紅燈！
+貓咪皮膚問題常與遺傳、過敏、環境、情緒息息相關
+補充有益膚毛的營養，維持貓咪良好膚況與光澤亮毛
+
+
+【爆毛必備】台灣鱉蛋粉
+富含胺基酸、卵磷脂，維持皮毛光澤亮麗、預防掉毛。
+【滋養護膚】魚膠原蛋白
+100%魚鱗來源，吸收率極高；小分子量使身體更快速吸收。
+【肌膚屏障】益生菌發酵粉
+複合4益菌經48小時黃金發酵，幫身體建立防護網與形成屏障。
+
+
+
+
+

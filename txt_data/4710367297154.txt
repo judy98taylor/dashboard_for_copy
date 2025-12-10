@@ -1,0 +1,38 @@
+categoryPath_1_en:
+Housewares / Housewares / Stationery / Tapes / Multi purpose Glue
+
+categoryPath_2_cn:
+家品傢俬 / 家品傢俬 / 文具 / 膠紙及萬用膠 / 萬用膠
+
+origin_1_en:
+Japan
+
+origin_2_cn:
+日本
+
+productBrand_1_en:
+3M
+
+productBrand_2_cn:
+3M
+
+productName_1_en:
+3M - Instant Adhesive 28.3g(parallel import)
+
+productName_2_cn:
+3M - 萬能快乾膠28.3g(平行進口)
+
+shortDesc_1_en:
+- Sets within seconds
+- Bonds most non-porous substrates, e.g. metal, wood and plastic, etc.
+
+
+Click me for more3M Products
+
+shortDesc_2_cn:
+- 黏力特強，滴一滴好夠力
+- 快速接合而無需混勻或用鉗或加熱
+- 可接合大多數不透氣底材，例如木，金屬及塑膠等
+
+
+更多3M請按我

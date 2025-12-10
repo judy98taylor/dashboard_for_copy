@@ -1,0 +1,36 @@
+categoryPath_1_en:
+Personal Care & Health / Personal Care & Health / Skincare / Mask / Multi Functional
+
+categoryPath_2_cn:
+護理保健 / 護理保健 / 護膚用品 / 面膜 / 多功能
+
+origin_1_en:
+Taiwan
+
+origin_2_cn:
+台灣
+
+productBrand_1_en:
+Neogence
+
+productBrand_2_cn:
+霓淨思
+
+productName_1_en:
+Neogence - Neogence Ex-Boyfriend's Regretful Eye-Catching Face Mask (4 sheets/box) - Parallel Import(parallel import)
+
+productName_2_cn:
+霓淨思 - Neogence 前男友超後悔吸睛面膜4片/盒 平行進口(平行進口)
+
+shortDesc_1_en:
+Selected skincare essences provide delicate care for the skin, deeply moisturizing and intensively hydrating to reveal a soft and radiant complexion.
+
+
+
+
+
+shortDesc_2_cn:
+甄選護膚精華，給予肌膚細緻呵護，沁潤保濕，密集補水，煥現柔嫩光采肌
+
+
+
